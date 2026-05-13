@@ -62,7 +62,7 @@ class SaiSiddharth:
 
 - Designed classification algorithms with data preprocessing achieving **70% accuracy**
 - Built modular, well-documented architecture for reliability and team collaboration
-- Used Git for version control with scalable codebase
+- Used Git for version control with a scalable codebase
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiSiddharth1)
 
@@ -93,15 +93,35 @@ class SaiSiddharth:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiSiddharth1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)](https://github.com/SaiSiddharth1)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/SaiSiddharth1)
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SaiSiddharth1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SaiSiddharth1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/SaiSiddharth1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiSiddharth1&theme=tokyo-night&hide_border=true)](https://github.com/SaiSiddharth1)
 
 </div>
 
@@ -121,7 +141,7 @@ class SaiSiddharth:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaiSiddharth1&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SaiSiddharth1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
